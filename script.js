@@ -78,7 +78,7 @@ function playGame(playerChoice) {
     else {
 
         result.textContent =
-            "🤝 It's a Tie! Both chose " +
+            "🤝 It's a Tie! Both choose " +
             playerChoice;
 
     }
